@@ -103,7 +103,7 @@ See the [CPAT documentation](http://rna-cpat.sourceforge.net/) for more informat
 
 ## RPKM
 
-The threshold for RPKM defaults to <span class="math inline">\(0.05\cdot n\)</span>, where <span class="math inline">\(n\)</span> is the number of samples.
+The threshold for RPKM defaults to <span class="math inline">\(0.05 * n\)</span>, where <span class="math inline">\(n\)</span> is the number of samples.
 
 This threshold can easily be changed by passing the desired value:
 
